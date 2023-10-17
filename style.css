@@ -1,0 +1,71 @@
+ul{
+    color:black;
+    list-style-type:circle;
+    font-size: larger;
+    font-family: sans-serif;
+    font: weight 300px;
+}
+nav{
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: aqua;
+}
+main{
+    margin:60px;
+    text-align: center;
+}
+.content-body{
+    border: 1px solid black;
+    padding:60px;
+    margin:10px;
+    background-color: salmon;
+}
+.content-body-about{
+    border: 1px solid black;
+    padding:60px;
+    margin:10px;
+    background-color:greenyellow;
+}
+.content-body-skills{
+    border: 1px solid black;
+    padding:60px;
+    margin:10px;
+    background-color:red;
+}
+.content-body-projects{
+    border: 1px solid black;
+    padding:60px;
+    margin:10px;
+    background-color:gray;
+}
+.content-body-contact{
+    border: 1px solid black;
+    padding:60px;
+    margin:10px;
+    background-color:brown;
+}
+.heading{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: bolder;
+}
+#Home{
+    color: red;
+}
+#About{
+    color:black;
+}
+#Skills{
+    color:brown;
+}
+#Project{
+    color:blue;
+}
+#Contactus{
+    color: aqua;
+}
+.project-class{
+    color:white;
+}
+
